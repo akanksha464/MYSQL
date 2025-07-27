@@ -1,4 +1,4 @@
- // Creating a Stored Procedure for Updating User Information
+-- Creating a Stored Procedure for Updating User Information
 
 DROP PROCEDURE IF EXISTS UpdateUserInfo;
 DELIMITER //
